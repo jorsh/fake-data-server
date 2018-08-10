@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Data Server
 
 This is a script to generate a bunch o **fake data** to be mounted on a JSON Server and deploy it as a REST API.
@@ -21,3 +22,7 @@ Take a look at the [live demo here](https://mockapi-zksqatrpcc.now.sh/)
 - Refer to [faker](https://github.com/marak/Faker.js/) and [chance](https://chancejs.com/) for details about the data that can be faked.
 
 - For furhter details about the server (pagination,operators, filters, sorting, slicing, etc) refer to https://github.com/typicode/json-server
+=======
+# fake-data-server
+This is a script to generate a bunch o fake data to be mounted on a JSON Server and deploy it as a REST API.
+>>>>>>> 9f53ebf8b7cf7cdf07b500099b44457510b995b7
