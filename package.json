@@ -1,5 +1,5 @@
 {
-  "name": "Fake Data Server",
+  "name": "fake-data-server",
   "version": "1.0.0",
   "description": "api rest server",
   "main": "server.js",
